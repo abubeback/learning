@@ -63,7 +63,6 @@ public class CyclicBarrierGeek {
     }
 
     private void main() {
-
         // 执行回调的线程池, 保证串行
         Executor executor = Executors.newFixedThreadPool(1);
         // 回调函数如果不另开线程, 将会在最后一个await的线程上执行, 且为同步方法
