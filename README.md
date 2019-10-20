@@ -1,1 +1,1 @@
-# learninging
+# learning
