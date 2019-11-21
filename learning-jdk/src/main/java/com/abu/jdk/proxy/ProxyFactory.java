@@ -37,7 +37,6 @@ public class ProxyFactory implements MethodInterceptor {
     }
 
     public Object intercept(Object obj, Method method, Object[] arg2, MethodProxy proxy) throws Throwable {
-        // TODO Auto-generated method stub
         System.out.println("开始事务...");
         Object returnValue = method.invoke(target, arg2);
         System.out.println("提交事务...");
