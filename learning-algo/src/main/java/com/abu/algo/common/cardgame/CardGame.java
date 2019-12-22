@@ -8,6 +8,7 @@ import java.util.concurrent.LinkedBlockingQueue;
 
 /**
  * Created by iwang on 11/20/2019
+ * EPAM笔试题, 考察线程调度相关
  */
 public class CardGame {
 
