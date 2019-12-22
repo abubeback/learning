@@ -1,4 +1,4 @@
-package com.abu.algo.common.sort.insertion;
+package com.abu.algo.common.sort.quick;
 
 /**
  * Created by zhewawan on 2019/12/1.
