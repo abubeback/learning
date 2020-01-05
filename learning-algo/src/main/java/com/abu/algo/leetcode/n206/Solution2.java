@@ -1,5 +1,7 @@
 package com.abu.algo.leetcode.n206;
 
+import com.abu.algo.leetcode.common.ListNode;
+
 import java.util.ArrayList;
 import java.util.List;
 

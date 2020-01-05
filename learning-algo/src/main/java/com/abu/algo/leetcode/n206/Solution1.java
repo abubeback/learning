@@ -1,6 +1,8 @@
 package com.abu.algo.leetcode.n206;
 
 
+import com.abu.algo.leetcode.common.ListNode;
+
 /**
  * Reverse a singly linked list.
 
