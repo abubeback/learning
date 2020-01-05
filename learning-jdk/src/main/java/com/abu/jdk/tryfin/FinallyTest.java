@@ -9,7 +9,7 @@ public class FinallyTest {
      * output:
      * try block
      * finally block
-     * b>25, b = 100
+     * b greater than 25, b = 100
      * 100
      * @return
      * try中的return语句先执行了但并没有立即返回，等到finally执行结束后再返回

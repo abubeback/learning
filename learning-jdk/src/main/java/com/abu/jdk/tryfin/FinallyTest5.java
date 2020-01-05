@@ -10,7 +10,7 @@ public class FinallyTest5 {
      * try block
      * catch block
      * finally block
-     * b>25, b = 35
+     * b greater than 25, b = 35
      * 85
      * @return
      * 外部return, 经过所有流程

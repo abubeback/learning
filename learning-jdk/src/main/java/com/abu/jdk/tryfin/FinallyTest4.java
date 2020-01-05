@@ -11,7 +11,7 @@ public class FinallyTest4 {
     /**
      * Output: FINALLY
      * 值传递, 对象copy, 类似FinallyTest3
-     * @return
+     * @return map
      */
     public static Map<String, String> getMap() {
         Map<String, String> map = new HashMap<String, String>();

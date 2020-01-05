@@ -9,7 +9,7 @@ public class FinallyTest2 {
      * output:
      * try block
      * finally block
-     * b>25, b = 100
+     * b greater than 25, b = 100
      * 200
      * @return
      * finally里的return直接返回了，不管try中是否还有返回语句

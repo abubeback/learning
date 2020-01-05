@@ -10,7 +10,7 @@ public class FinallyTest6 {
      * try block
      * catch block
      * finally block
-     * b>25, b = 35
+     * b greater than 25, b = 35
      * 35
      * @return
      * catch return, finally部分为值引用, 不影响结果

@@ -12,7 +12,6 @@ import java.util.List;
  * Set set   = Collections.synchronizedSet(new HashSet());
  * Map map   = Collections.synchronizedMap(new HashMap());
  *
- * @param <T>
  */
 public class SafeArrayList<T> {
 
