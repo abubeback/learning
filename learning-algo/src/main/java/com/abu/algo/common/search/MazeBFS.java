@@ -114,19 +114,3 @@ public class MazeBFS {
     }
 }
 
-class Node{
-
-    Node(){}
-
-    Node(int x, int y, int step, Node parent){
-        this.x = x;
-        this.y = y;
-        this.step = step;
-        this.parent = parent;
-    }
-
-    int x;
-    int y;
-    Node parent;
-    int step;
-}

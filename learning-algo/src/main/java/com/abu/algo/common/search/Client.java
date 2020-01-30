@@ -9,6 +9,10 @@ import java.lang.annotation.Annotation;
 public class Client {
 
     public static void main(String[] args) {
+
+        String time = String.valueOf(System.currentTimeMillis());
+        System.out.println(time);
+
         //可以通过I/O操作或配置项获得包名
         String pkgName = "com.abu.algo.common.search";
         Package pkg = Package.getPackage(pkgName);
